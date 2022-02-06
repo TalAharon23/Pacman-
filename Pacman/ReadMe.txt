@@ -1,32 +1,14 @@
-Nadav Shriki 208503896 
-Tal Aharon 208458414  
+----- PACMAN GAME ----- 
+    by Tal Aharon
+
+This Pacman game programmed 
 
 
-
-פיטשרים של התוכנית:
-1) ישנה אופציה להריץ את המשחק עם צבעים (אופציה מספר 2).
-
-2) לחיצה על ESC במהלך המשחק עוצרת אותו (לפי ההוראות), לחיצה נוספת על ESC מחזירה את המשחק ( גם לפי ההוראות), 
-אבל כל לחיצה אחרת אחרי ESC מוציאה לתפריט הראשי.
-כך שחקן יכול לבחור אם לעצור את המשחק באמצע (ולא להיפסל בכוונה עד שהמשחק ייגמר), או להתחיל משחק חדש מתי שירצה.
-
-3) כאשר הרוח מצליחה לתפוס את הפאקמן ישנה שהייה של שנייה אחת של כל ישות,
- כך השחקן מבין שהייתה התנגשות בין הרוח לפאקמן ורק אז הפאקמן והרוחות חוזרים למקומם.
-
-4) לאחר מטלה 2, שינינו את את המחלקה Game שניהלה את המשחק, הפכנו אותה למחלקת בסיס עם 4 מחלקות נורשות (Silent, Simple,Save,Load)
-כך שכל אופציית הרצה של המשחק היא מחלקה בפני עצמה.
-
-פורמט של הקבצים:
-1) קובץ steps:
- P" = pacman, "G0/G1/G2/G3" = ghosts"
- F Appearance xxyy" = Fruit and its x,y coordinates"
- F Disappear" = Fruit eaten/removed from screen"
-הצעדים : UP, DOWN, RIGHT, LEFT, STAY.
-
-2) קובץ result:
-1.Pacman died at point of time - הזמן בו פאקמן מת בלוח הנוכחי.
-2.Game ended at point of time - הזמן בו לוח נוכחי הסתיים.
-3.Game finished successfuly at point of time - הזמן בו השחקן ניצח.
-4.Game closed at point of time - הזמן בו השחקן יצא מהמשחק על ידי ESC.
+This game was developed as part of a bachelor's degree in computer science at Tel Aviv-Yafo College.
+The game is developed in C ++, using object-oriented programming, polymorphism and files.
+The game has 3 options:
+1) Normal game - Reading the game board template. During the game and between the boards, the user's steps are saved into a file.
+2) View the game saved from the file and run it on the screen per board.
+3) Checking the game - reading the steps and moves of the game, while checking in front of the file, test that everything is done properly and that the game board is correct.
 
 
