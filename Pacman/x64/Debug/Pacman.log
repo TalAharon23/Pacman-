@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מדעי המחשב\שנה ב\סמסטר א\C++\Pacman\Board.h(30,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מדעי המחשב\שנה ב\סמסטר א\C++\Pacman\Creature.h(15,41): warning C4309: 'initializing': truncation of constant value
+  Pacman.vcxproj -> C:\Users\dsapt\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מדעי המחשב\שנה ב\סמסטר א\C++\Pacman\x64\Debug\Pacman.exe

@@ -1,0 +1,913 @@
+P DOWN
+G0 DOWN
+G2 DOWN
+F Disappear 
+P STAY
+G1 DOWN
+G3 LEFT
+F Disappear 
+P LEFT
+G0 LEFT
+G2 UP
+F Disappear 
+P LEFT
+G1 UP
+G3 UP
+F Disappear 
+P LEFT
+G0 RIGHT
+G2 DOWN
+F Disappear 
+P LEFT
+G1 UP
+G3 RIGHT
+F Disappear 
+P LEFT
+G0 RIGHT
+G2 DOWN
+F Disappear 
+P LEFT
+G1 LEFT
+G3 DOWN
+F Disappear 
+P LEFT
+G0 LEFT
+G2 LEFT
+F Disappear 
+P LEFT
+G1 UP
+G3 DOWN
+F Disappear 
+P LEFT
+G0 DOWN
+G2 LEFT
+F Disappear 
+P UP
+G1 DOWN
+G3 DOWN
+F Disappear 
+P UP
+G0 LEFT
+G2 DOWN
+F Disappear 
+P UP
+G1 DOWN
+G3 RIGHT
+F Disappear 
+P UP
+G0 LEFT
+G2 LEFT
+F Disappear 
+P STAY
+G1 LEFT
+G3 DOWN
+F Appearance 4801 8
+P DOWN
+G0 UP
+G2 UP
+F Appearance 4801 8
+P DOWN
+G1 RIGHT
+G3 UP
+F Appearance 4801 8
+P DOWN
+G0 UP
+G2 DOWN
+F Appearance 4801 8
+P DOWN
+G1 RIGHT
+G3 LEFT
+F Appearance 4801 8
+P LEFT
+G0 DOWN
+G2 RIGHT
+F Appearance 4901 8
+P LEFT
+G1 RIGHT
+G3 UP
+F Appearance 4901 8
+P LEFT
+G0 UP
+G2 DOWN
+F Appearance 4901 8
+P LEFT
+G1 UP
+G3 DOWN
+F Appearance 4901 8
+P LEFT
+G0 UP
+G2 RIGHT
+F Appearance 4901 8
+P LEFT
+G1 LEFT
+G3 LEFT
+F Appearance 4901 8
+P LEFT
+G0 LEFT
+G2 DOWN
+F Appearance 4801 8
+P LEFT
+G1 DOWN
+G3 LEFT
+F Appearance 4801 8
+P LEFT
+G0 LEFT
+G2 RIGHT
+F Appearance 4801 8
+P UP
+G1 LEFT
+G3 UP
+F Appearance 4801 8
+P UP
+G0 DOWN
+G2 RIGHT
+F Appearance 4801 8
+P STAY
+G1 DOWN
+G3 DOWN
+F Appearance 4801 8
+P STAY
+G0 UP
+G2 RIGHT
+F Appearance 4801 8
+P RIGHT
+G1 UP
+G3 DOWN
+F Appearance 4801 8
+P UP
+G0 DOWN
+G2 RIGHT
+F Appearance 4801 8
+P UP
+G1 LEFT
+G3 DOWN
+F Appearance 4801 8
+P UP
+G0 RIGHT
+G2 LEFT
+F Appearance 4801 8
+P UP
+G1 LEFT
+G3 RIGHT
+F Appearance 4801 8
+P UP
+G0 DOWN
+G2 DOWN
+F Appearance 4801 8
+P UP
+G1 LEFT
+G3 LEFT
+F Appearance 4801 8
+P UP
+G0 DOWN
+G2 UP
+F Appearance 4801 8
+P UP
+G1 UP
+G3 RIGHT
+F Appearance 4801 8
+P STAY
+G0 LEFT
+G2 UP
+F Appearance 4801 8
+P RIGHT
+G1 RIGHT
+G3 RIGHT
+F Appearance 4801 8
+P RIGHT
+G0 RIGHT
+G2 UP
+F Appearance 4801 8
+P RIGHT
+G1 UP
+G3 UP
+F Appearance 4801 8
+P RIGHT
+G0 RIGHT
+G2 LEFT
+F Appearance 4801 8
+P RIGHT
+G1 UP
+G3 UP
+F Appearance 4801 8
+P RIGHT
+G0 UP
+G2 UP
+F Appearance 4801 8
+P RIGHT
+G1 UP
+G3 DOWN
+F Appearance 4801 8
+P RIGHT
+G0 RIGHT
+G2 UP
+F Appearance 4801 8
+P RIGHT
+G1 RIGHT
+G3 UP
+F Appearance 4801 8
+P RIGHT
+G0 LEFT
+G2 RIGHT
+F Appearance 4801 8
+P RIGHT
+G1 DOWN
+G3 LEFT
+F Appearance 4801 8
+P RIGHT
+G0 LEFT
+G2 UP
+F Appearance 4801 8
+P RIGHT
+G1 DOWN
+G3 DOWN
+F Appearance 4801 8
+P RIGHT
+G0 DOWN
+G2 RIGHT
+F Appearance 4801 8
+P RIGHT
+G1 UP
+G3 UP
+F Appearance 4801 8
+P RIGHT
+G0 RIGHT
+G2 RIGHT
+F Appearance 4801 8
+P RIGHT
+G1 LEFT
+G3 UP
+F Appearance 4801 8
+P RIGHT
+G0 RIGHT
+G2 UP
+F Appearance 4801 8
+P RIGHT
+G1 LEFT
+G3 LEFT
+F Appearance 4801 8
+P RIGHT
+G0 RIGHT
+G2 LEFT
+F Appearance 4901 8
+P RIGHT
+G1 RIGHT
+G3 UP
+F Appearance 4901 8
+P RIGHT
+G0 LEFT
+G2 UP
+F Appearance 4901 8
+P RIGHT
+G1 UP
+G3 LEFT
+F Appearance 4901 8
+P RIGHT
+G0 DOWN
+G2 LEFT
+F Appearance 4901 8
+P RIGHT
+G1 DOWN
+G3 UP
+F Appearance 4901 8
+P RIGHT
+G0 DOWN
+G2 RIGHT
+F Disappear 
+P RIGHT
+G1 LEFT
+G3 UP
+F Disappear 
+P RIGHT
+G0 LEFT
+G2 LEFT
+F Disappear 
+P RIGHT
+G1 UP
+G3 RIGHT
+F Disappear 
+P RIGHT
+G0 LEFT
+G2 UP
+F Disappear 
+P RIGHT
+G1 DOWN
+G3 LEFT
+F Disappear 
+P RIGHT
+G0 UP
+G2 DOWN
+F Disappear 
+P RIGHT
+G1 UP
+G3 DOWN
+F Disappear 
+P RIGHT
+G0 LEFT
+G2 RIGHT
+F Disappear 
+P RIGHT
+G1 LEFT
+G3 RIGHT
+F Disappear 
+P DOWN
+G0 LEFT
+G2 RIGHT
+F Disappear 
+P DOWN
+G1 UP
+G3 RIGHT
+F Disappear 
+P DOWN
+G0 DOWN
+G2 DOWN
+F Disappear 
+P DOWN
+G1 LEFT
+G3 RIGHT
+F Disappear 
+P DOWN
+G0 RIGHT
+G2 DOWN
+F Disappear 
+P DOWN
+G1 RIGHT
+G3 DOWN
+F Disappear 
+P DOWN
+G0 UP
+G2 LEFT
+F Disappear 
+P DOWN
+G1 RIGHT
+G3 DOWN
+F Disappear 
+P DOWN
+G0 LEFT
+G2 RIGHT
+F Disappear 
+P DOWN
+G1 RIGHT
+G3 LEFT
+F Disappear 
+P DOWN
+G0 UP
+G2 UP
+F Disappear 
+P DOWN
+G1 DOWN
+G3 DOWN
+F Disappear 
+P DOWN
+G0 RIGHT
+G2 LEFT
+F Disappear 
+P DOWN
+G1 UP
+G3 RIGHT
+F Disappear 
+P DOWN
+G0 RIGHT
+G2 LEFT
+F Disappear 
+P DOWN
+G1 UP
+G3 LEFT
+F Disappear 
+P DOWN
+G0 UP
+G2 RIGHT
+F Disappear 
+P LEFT
+G1 UP
+G3 LEFT
+F Disappear 
+P LEFT
+G0 DOWN
+G2 LEFT
+F Disappear 
+P LEFT
+G1 RIGHT
+G3 UP
+F Disappear 
+P LEFT
+G0 DOWN
+G2 DOWN
+F Disappear 
+P LEFT
+G1 DOWN
+G3 UP
+F Disappear 
+P LEFT
+G0 UP
+G2 RIGHT
+F Disappear 
+P LEFT
+G1 UP
+G3 UP
+F Disappear 
+P LEFT
+G0 UP
+G2 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+G3 UP
+F Disappear 
+P LEFT
+G0 UP
+G2 RIGHT
+F Disappear 
+P LEFT
+G1 DOWN
+G3 RIGHT
+F Disappear 
+P LEFT
+G0 DOWN
+G2 RIGHT
+F Disappear 
+P DOWN
+G1 DOWN
+G3 LEFT
+F Disappear 
+P STAY
+G0 RIGHT
+G2 RIGHT
+F Appearance 2502 8
+P STAY
+G1 DOWN
+G3 RIGHT
+F Appearance 2502 8
+P STAY
+G0 RIGHT
+G2 UP
+F Appearance 2502 8
+P RIGHT
+G1 LEFT
+G3 UP
+F Appearance 2502 8
+P RIGHT
+G0 LEFT
+G2 RIGHT
+F Appearance 2502 8
+P RIGHT
+G1 RIGHT
+G3 UP
+F Appearance 2502 8
+P RIGHT
+G0 DOWN
+G2 RIGHT
+F Appearance 2502 8
+P RIGHT
+G1 UP
+G3 RIGHT
+F Appearance 2502 8
+P RIGHT
+G0 RIGHT
+G2 UP
+F Appearance 2502 8
+P RIGHT
+G1 DOWN
+G3 UP
+F Appearance 2502 8
+P RIGHT
+G0 LEFT
+G2 RIGHT
+F Appearance 2502 8
+P RIGHT
+G1 RIGHT
+G3 LEFT
+F Appearance 2502 8
+P RIGHT
+G0 UP
+G2 LEFT
+F Appearance 2502 8
+P RIGHT
+G1 LEFT
+G3 DOWN
+F Appearance 2502 8
+P RIGHT
+G0 DOWN
+G2 DOWN
+F Appearance 2502 8
+P RIGHT
+G1 DOWN
+G3 DOWN
+F Appearance 2502 8
+P RIGHT
+G0 RIGHT
+G2 LEFT
+F Appearance 2502 8
+P RIGHT
+G1 RIGHT
+G3 LEFT
+F Appearance 2502 8
+P RIGHT
+G0 DOWN
+G2 UP
+F Appearance 2402 8
+P RIGHT
+G1 DOWN
+G3 DOWN
+F Appearance 2402 8
+P RIGHT
+G0 DOWN
+G2 RIGHT
+F Appearance 2402 8
+P RIGHT
+G1 LEFT
+G3 UP
+F Appearance 2402 8
+P RIGHT
+G0 UP
+G2 DOWN
+F Appearance 2402 8
+P RIGHT
+G1 UP
+G3 RIGHT
+F Appearance 2402 8
+P RIGHT
+G0 UP
+G2 DOWN
+F Appearance 2402 8
+P RIGHT
+G1 RIGHT
+G3 UP
+F Appearance 2402 8
+P RIGHT
+G0 DOWN
+G2 LEFT
+F Appearance 2402 8
+P RIGHT
+G1 RIGHT
+G3 DOWN
+F Appearance 2402 8
+P RIGHT
+G0 RIGHT
+G2 DOWN
+F Appearance 2402 8
+P RIGHT
+G1 RIGHT
+G3 LEFT
+F Appearance 2402 8
+P RIGHT
+G0 RIGHT
+G2 UP
+F Appearance 2402 8
+P RIGHT
+G1 LEFT
+G3 LEFT
+F Appearance 2402 8
+P RIGHT
+G0 DOWN
+G2 UP
+F Appearance 2402 8
+P RIGHT
+G1 UP
+G3 RIGHT
+F Appearance 2402 8
+P RIGHT
+G0 LEFT
+G2 RIGHT
+F Appearance 2402 8
+P RIGHT
+G1 UP
+G3 UP
+F Appearance 2402 8
+P RIGHT
+G0 LEFT
+G2 RIGHT
+F Appearance 2502 8
+P RIGHT
+G1 RIGHT
+G3 DOWN
+F Appearance 2502 8
+P RIGHT
+G0 RIGHT
+G2 RIGHT
+F Appearance 2502 8
+P RIGHT
+G1 DOWN
+G3 DOWN
+F Appearance 2502 8
+P STAY
+G0 DOWN
+G2 LEFT
+F Appearance 2502 8
+P UP
+G1 LEFT
+G3 LEFT
+F Appearance 2502 8
+P UP
+G0 LEFT
+G2 RIGHT
+F Appearance 2402 8
+P UP
+G1 UP
+G3 LEFT
+F Appearance 2402 8
+P UP
+G0 DOWN
+G2 DOWN
+F Appearance 2402 8
+P UP
+G1 DOWN
+G3 DOWN
+F Appearance 2402 8
+P LEFT
+G0 LEFT
+G2 DOWN
+F Appearance 2402 8
+P LEFT
+G1 UP
+G3 UP
+F Appearance 2402 8
+P LEFT
+G0 RIGHT
+G2 RIGHT
+F Appearance 2401 8
+P LEFT
+G1 UP
+G3 DOWN
+F Appearance 2401 8
+P LEFT
+G0 RIGHT
+G2 DOWN
+F Appearance 2401 8
+P LEFT
+G1 UP
+G3 DOWN
+F Appearance 2401 8
+P LEFT
+G0 RIGHT
+G2 DOWN
+F Appearance 2401 8
+P LEFT
+G1 UP
+G3 UP
+F Appearance 2401 8
+P RIGHT
+G0 LEFT
+G2 LEFT
+F Appearance 2402 8
+P RIGHT
+G1 DOWN
+G3 RIGHT
+F Appearance 2402 8
+P RIGHT
+G0 RIGHT
+G2 RIGHT
+F Appearance 2402 8
+P RIGHT
+G1 DOWN
+G3 UP
+F Appearance 2402 8
+P UP
+G0 DOWN
+G2 DOWN
+F Appearance 2402 8
+P STAY
+G1 UP
+G3 UP
+F Appearance 2402 8
+P STAY
+G0 UP
+G2 LEFT
+F Appearance 2402 8
+P STAY
+G1 UP
+G3 UP
+F Appearance 2402 8
+P LEFT
+G0 RIGHT
+G2 UP
+F Appearance 2402 8
+P LEFT
+G1 RIGHT
+G3 RIGHT
+F Appearance 2402 8
+P LEFT
+G0 UP
+G2 UP
+F Appearance 2402 8
+P STAY
+G1 UP
+G3 RIGHT
+F Appearance 2402 8
+P STAY
+G0 LEFT
+G2 DOWN
+F Appearance 2502 8
+P STAY
+G1 DOWN
+G3 RIGHT
+F Appearance 2502 8
+P DOWN
+G0 DOWN
+G2 UP
+F Appearance 2502 8
+P LEFT
+G1 RIGHT
+G3 DOWN
+F Appearance 2502 8
+P LEFT
+G0 LEFT
+G2 UP
+F Appearance 2502 8
+P LEFT
+G1 RIGHT
+G3 UP
+F Appearance 2502 8
+P LEFT
+G0 RIGHT
+G2 UP
+F Appearance 2402 8
+P LEFT
+G1 DOWN
+G3 LEFT
+F Appearance 2402 8
+P LEFT
+G0 DOWN
+G2 RIGHT
+F Appearance 2402 8
+P LEFT
+G1 UP
+G3 LEFT
+F Appearance 2402 8
+P LEFT
+G0 RIGHT
+G2 DOWN
+F Appearance 2402 8
+P LEFT
+G1 UP
+G3 LEFT
+F Appearance 2402 8
+P LEFT
+G0 UP
+G2 UP
+F Appearance 2401 8
+P LEFT
+G1 DOWN
+G3 RIGHT
+F Appearance 2401 8
+P LEFT
+G0 RIGHT
+G2 DOWN
+F Appearance 2401 8
+P LEFT
+G1 RIGHT
+G3 RIGHT
+F Appearance 2401 8
+P LEFT
+G0 DOWN
+G2 LEFT
+F Appearance 2401 8
+P LEFT
+G1 LEFT
+G3 UP
+F Appearance 2401 8
+P LEFT
+G0 LEFT
+G2 RIGHT
+F Appearance 2402 8
+P LEFT
+G1 RIGHT
+G3 RIGHT
+F Appearance 2402 8
+P LEFT
+G0 DOWN
+G2 DOWN
+F Appearance 2402 8
+P LEFT
+G1 RIGHT
+G3 RIGHT
+F Appearance 2402 8
+P UP
+G0 DOWN
+G2 LEFT
+F Appearance 2402 8
+P LEFT
+G1 DOWN
+G3 RIGHT
+F Appearance 2402 8
+P LEFT
+G0 LEFT
+G2 DOWN
+F Appearance 2402 8
+P LEFT
+G1 LEFT
+G3 RIGHT
+F Appearance 2402 8
+P LEFT
+G0 DOWN
+G2 LEFT
+F Appearance 2402 8
+P LEFT
+G1 LEFT
+G3 RIGHT
+F Appearance 2402 8
+P LEFT
+G0 UP
+G2 UP
+F Appearance 2402 8
+P LEFT
+G1 DOWN
+G3 UP
+F Appearance 2402 8
+P LEFT
+G0 UP
+G2 UP
+F Appearance 2402 8
+P LEFT
+G1 UP
+G3 RIGHT
+F Appearance 2402 8
+P LEFT
+G0 RIGHT
+G2 UP
+F Appearance 2402 8
+P LEFT
+G1 DOWN
+G3 DOWN
+F Appearance 2402 8
+P LEFT
+G0 LEFT
+G2 DOWN
+F Appearance 2402 8
+P LEFT
+G1 DOWN
+G3 RIGHT
+F Appearance 2402 8
+P LEFT
+G0 RIGHT
+G2 DOWN
+F Appearance 2402 8
+P LEFT
+G1 LEFT
+G3 UP
+F Appearance 2402 8
+P UP
+G0 RIGHT
+G2 DOWN
+F Appearance 2402 8
+P STAY
+G1 LEFT
+G3 RIGHT
+F Appearance 2402 8
+P STAY
+G0 RIGHT
+G2 DOWN
+F Appearance 2402 8
+P STAY
+G1 DOWN
+G3 DOWN
+F Appearance 2402 8
+P LEFT
+G0 LEFT
+G2 LEFT
+F Appearance 2402 8
+P STAY
+G1 LEFT
+G3 LEFT
+F Appearance 2402 8
+P UP
+G0 UP
+G2 UP
+F Appearance 2402 8
+P UP
+G1 RIGHT
+G3 RIGHT
+F Appearance 2402 8
+P UP
+G0 LEFT
+G2 UP
+F Appearance 2402 8
+P UP
+G1 LEFT
+G3 LEFT
+F Appearance 2402 8
+P STAY
+G0 DOWN
+G2 RIGHT
+F Appearance 2502 8
+P RIGHT
+G1 DOWN
+G3 UP
+F Appearance 2502 8
+P RIGHT
+G0 LEFT
+G2 LEFT
+F Appearance 2502 8
+P RIGHT
+G1 RIGHT
+G3 LEFT
+F Appearance 2502 8
+P RIGHT
+G0 DOWN
+G2 LEFT
+F Appearance 2502 8
+P RIGHT
+G1 RIGHT
+G3 DOWN
+F Appearance 2502 8
+P RIGHT

@@ -1,0 +1,756 @@
+P LEFT
+G0 UP
+F Disappear 
+P LEFT
+G1 UP
+F Disappear 
+P LEFT
+G0 UP
+F Disappear 
+P LEFT
+G1 LEFT
+F Disappear 
+P LEFT
+G0 LEFT
+F Disappear 
+P LEFT
+G1 LEFT
+F Disappear 
+P LEFT
+G0 LEFT
+F Disappear 
+P LEFT
+G1 LEFT
+F Disappear 
+P LEFT
+G0 LEFT
+F Disappear 
+P LEFT
+G1 LEFT
+F Disappear 
+P DOWN
+G0 LEFT
+F Disappear 
+P DOWN
+G1 LEFT
+F Disappear 
+P STAY
+G0 LEFT
+F Disappear 
+P LEFT
+G1 UP
+F Disappear 
+P LEFT
+G0 LEFT
+F Disappear 
+P LEFT
+G1 LEFT
+F Appearance 4205 7
+P UP
+G0 LEFT
+F Appearance 4205 7
+P UP
+G1 LEFT
+F Appearance 4205 7
+P UP
+G0 LEFT
+F Appearance 4205 7
+P UP
+G1 LEFT
+F Appearance 4205 7
+P LEFT
+G0 LEFT
+F Appearance 4205 7
+P LEFT
+G1 LEFT
+F Appearance 4205 7
+P LEFT
+G0 LEFT
+F Appearance 4205 7
+P LEFT
+G1 LEFT
+F Appearance 4205 7
+P LEFT
+G0 RIGHT
+F Appearance 4205 7
+P LEFT
+G1 UP
+F Appearance 4205 7
+P LEFT
+G0 UP
+F Appearance 4305 7
+P LEFT
+G1 RIGHT
+F Appearance 4305 7
+P LEFT
+G0 RIGHT
+F Appearance 4305 7
+P LEFT
+G1 LEFT
+F Appearance 4305 7
+P LEFT
+G0 LEFT
+F Appearance 4305 7
+P LEFT
+G1 UP
+F Appearance 4305 7
+P LEFT
+G0 RIGHT
+F Appearance 4405 7
+P LEFT
+G1 RIGHT
+F Appearance 4405 7
+P LEFT
+G0 RIGHT
+F Appearance 4405 7
+P LEFT
+G1 LEFT
+F Appearance 4405 7
+P LEFT
+G0 UP
+F Appearance 4405 7
+P LEFT
+G1 UP
+F Appearance 4405 7
+P LEFT
+G0 LEFT
+F Appearance 4505 7
+P LEFT
+G1 DOWN
+F Appearance 4505 7
+P LEFT
+G0 RIGHT
+F Appearance 4505 7
+P UP
+G1 RIGHT
+F Appearance 4505 7
+P UP
+G0 RIGHT
+F Appearance 4505 7
+P STAY
+G1 RIGHT
+F Appearance 4505 7
+P RIGHT
+G0 UP
+F Appearance 4505 7
+P RIGHT
+G1 RIGHT
+F Appearance 4505 7
+P RIGHT
+G0 RIGHT
+F Appearance 4505 7
+P RIGHT
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P UP
+G1 DOWN
+F Disappear 
+P UP
+G0 RIGHT
+F Disappear 
+P UP
+G1 RIGHT
+F Disappear 
+P UP
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P DOWN
+G0 RIGHT
+F Disappear 
+P DOWN
+G1 UP
+F Disappear 
+P STAY
+G0 UP
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 UP
+F Disappear 
+P RIGHT
+G0 UP
+F Disappear 
+P RIGHT
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 UP
+F Disappear 
+P RIGHT
+G0 UP
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P DOWN
+G0 DOWN
+F Disappear 
+P DOWN
+G1 DOWN
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 DOWN
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P DOWN
+G0 RIGHT
+F Disappear 
+P DOWN
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P DOWN
+G1 LEFT
+F Disappear 
+P DOWN
+G0 LEFT
+F Disappear 
+P DOWN
+G1 LEFT
+F Disappear 
+P LEFT
+G0 LEFT
+F Disappear 
+P LEFT
+G1 LEFT
+F Disappear 
+P STAY
+G0 LEFT
+F Disappear 
+P UP
+G1 LEFT
+F Disappear 
+P LEFT
+G0 DOWN
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 LEFT
+F Appearance 0407 9
+P LEFT
+G1 DOWN
+F Appearance 0407 9
+P STAY
+G0 RIGHT
+F Appearance 0407 9
+P DOWN
+G1 RIGHT
+F Appearance 0507 9
+P DOWN
+G0 RIGHT
+F Appearance 0507 9
+P RIGHT
+G1 LEFT
+F Appearance 0507 9
+P RIGHT
+G0 RIGHT
+F Appearance 0507 9
+P STAY
+G1 LEFT
+F Appearance 0507 9
+P UP
+G0 DOWN
+F Appearance 0507 9
+P STAY
+G1 UP
+F Appearance 0407 9
+P STAY
+G0 UP
+F Appearance 0407 9
+P STAY
+G1 RIGHT
+F Appearance 0407 9
+P STAY
+G0 LEFT
+F Appearance 0407 9
+P UP
+G1 RIGHT
+F Appearance 0407 9
+P STAY
+G0 LEFT
+F Appearance 0407 9
+P RIGHT
+G1 LEFT
+F Appearance 0307 9
+P RIGHT
+G0 LEFT
+F Appearance 0307 9
+P RIGHT
+G1 LEFT
+F Appearance 0307 9
+P RIGHT
+G0 LEFT
+F Appearance 0307 9
+P UP
+G1 LEFT
+F Appearance 0307 9
+P UP
+G0 LEFT
+F Appearance 0307 9
+P UP
+G1 LEFT
+F Appearance 0207 9
+P STAY
+G0 LEFT
+F Appearance 0207 9
+P STAY
+G1 DOWN
+F Appearance 0207 9
+P DOWN
+G0 LEFT
+F Appearance 0207 9
+P LEFT
+G1 LEFT
+F Appearance 0207 9
+P LEFT
+G0 LEFT
+F Appearance 0207 9
+P LEFT
+G1 LEFT
+F Appearance 0307 9
+P LEFT
+G0 LEFT
+F Appearance 0307 9
+P LEFT
+G1 LEFT
+F Disappear 
+P LEFT
+G0 LEFT
+F Disappear 
+P LEFT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 UP
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 DOWN
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 DOWN
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P DOWN
+G0 RIGHT
+F Disappear 
+P DOWN
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 UP
+F Disappear 
+P RIGHT
+G1 RIGHT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P STAY
+G1 UP
+F Disappear 
+P DOWN
+G0 DOWN
+F Disappear 
+P DOWN
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 DOWN
+F Disappear 
+P UP
+G1 LEFT
+F Disappear 
+P UP
+G0 RIGHT
+F Disappear 
+P STAY
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 LEFT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 DOWN
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 DOWN
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 DOWN
+F Disappear 
+P DOWN
+G1 DOWN
+F Disappear 
+P DOWN
+G0 DOWN
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 DOWN
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 DOWN
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 RIGHT
+F Disappear 
+P STAY
+G0 RIGHT
+F Disappear 
+P STAY
+G1 DOWN
+F Disappear 
+P STAY
+G0 UP
+F Disappear 
+P RIGHT
+G1 DOWN
+F Disappear 
+P RIGHT
+G0 UP
+F Disappear 
+P LEFT
+G1 LEFT
+F Disappear 
+P LEFT
+G0 LEFT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P UP
+G0 LEFT
+F Disappear 
+P UP
+G1 UP
+F Disappear 
+P UP
+G0 RIGHT
+F Appearance 4707 9
+P UP
+G1 RIGHT
+F Appearance 4707 9
+P STAY
+G0 LEFT
+F Appearance 4707 9
+P LEFT
+G1 UP
+F Appearance 4707 9
+P LEFT
+G0 RIGHT
+F Appearance 4607 9
+P LEFT
+G1 LEFT
+F Appearance 4607 9
+P RIGHT
+G0 RIGHT
+F Appearance 4607 9
+P RIGHT
+G1 RIGHT
+F Appearance 4607 9
+P RIGHT
+G0 RIGHT
+F Appearance 4607 9
+P RIGHT
+G1 RIGHT
+F Appearance 4607 9
+P RIGHT
+G0 RIGHT
+F Appearance 4607 9
+P RIGHT
+G1 UP
+F Appearance 4607 9
+P RIGHT
+G0 RIGHT
+F Appearance 4607 9
+P RIGHT
+G1 RIGHT
+F Appearance 4607 9
+P RIGHT
+G0 RIGHT
+F Appearance 4607 9
+P LEFT
+G1 RIGHT
+F Appearance 4607 9
+P LEFT
+G0 RIGHT
+F Appearance 4707 9
+P LEFT
+G1 RIGHT
+F Appearance 4707 9
+P LEFT
+G0 RIGHT
+F Appearance 4707 9
+P RIGHT
+G1 RIGHT
+F Appearance 4707 9
+P RIGHT
+G0 RIGHT
+F Appearance 4707 9
+P RIGHT
+G1 RIGHT
+F Appearance 4707 9
+P RIGHT
+G0 RIGHT
+F Appearance 4607 9
+P RIGHT
+G1 RIGHT
+F Appearance 4607 9
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P UP
+G1 RIGHT
+F Disappear 
+P UP
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 RIGHT
+F Disappear 
+P LEFT
+G0 LEFT
+F Disappear 
+P LEFT
+G1 DOWN
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 LEFT
+F Disappear 
+P LEFT
+G0 RIGHT
+F Disappear 
+P LEFT
+G1 DOWN
+F Disappear 
+P UP
+G0 DOWN
+F Disappear 
+P UP
+G1 UP
+F Disappear 
+P UP
+G0 DOWN
+F Disappear 
+P UP
+G1 DOWN
+F Disappear 
+P STAY
+G0 DOWN
+F Disappear 
+P RIGHT
+G1 UP
+F Disappear 
+P RIGHT
+G0 UP
+F Disappear 
+P RIGHT
+G1 UP
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 LEFT
+F Disappear 
+P RIGHT
+G0 RIGHT
+F Disappear 
+P RIGHT
+G1 RIGHT
+F Disappear 

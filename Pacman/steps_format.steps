@@ -1,0 +1,12 @@
+Creature; Direction;
+P UP
+G1 DOWN
+G2 LEFT
+F Appearance 5013
+P UP
+G1 LEFT
+P UP
+F Dissappeare
+
+
+P DOWN
