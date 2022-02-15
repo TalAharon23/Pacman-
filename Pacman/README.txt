@@ -1,4 +1,4 @@
------ PACMAN GAME ----- 
+# ----- PACMAN GAME ----- 
      by Tal Aharon
 
 This game was developed as part of a bachelor's degree in computer science at Tel Aviv-Jaffa College.
