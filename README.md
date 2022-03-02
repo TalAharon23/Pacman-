@@ -3,7 +3,7 @@
 
 This game was developed as part of a bachelor's degree in computer science at Tel Aviv-Jaffa College.
 
-The game is developed in C++, using object-oriented programming, polymorphism and files.
+The game developed in C++, using object-oriented programming, polymorphism and files.
 
 The game has 3 options:
 1) Normal game - Reading the game board template. During the game and between the boards, the user's steps and game results are saved into a file.
