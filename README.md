@@ -18,7 +18,7 @@ The game developed with C++, using object-oriented programming, polymorphism and
    - Printing the test's result (succeed or not).
 
  ### Running steps:
-  * Open CMD and navigate to pacman's folder and run:
+ Open CMD and navigate to pacman's folder and run:
   * `pacman.exe -simple` for simple game mode.
   * `pacman.exe -save` for saving game mode.
   * `pacman.exe -load` for load mode.
