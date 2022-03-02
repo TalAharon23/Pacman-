@@ -11,7 +11,7 @@ The Pacman has 3 game options:
    - During the game and according to the playing board, the user's steps and game's results are saving into a file.
 3) View the whole saved game from a file and run it on the screen.
 4) Testing the game:
-   - reading the game's steps and results.
+   - Reading the game's steps and results.
    - Checking in front of the files that everything is done properly and that the game board is correct.
    - Printing the test's result (succeed or not).
 
