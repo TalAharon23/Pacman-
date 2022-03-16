@@ -7,6 +7,7 @@ The game developed with C++, using object-oriented programming, polymorphism and
 ### The Pacman has 3 game options:
 1) Simple game mode:
    - Reading one or more gameboard templates from the project folder and playing without saving.
+   - After selecting a game option (with / without colors), you can play with all existing screens or play a game on one specific screen.
 3) Saving game mode: 
    - Reading one or more gameboard templates from the project folder. 
    - During the game and according to the playing board, the user's steps and game's results are saving into a file. 
