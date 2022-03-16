@@ -25,5 +25,5 @@ The game developed with C++, using object-oriented programming, polymorphism and
   * `pacman.exe -load` for load mode.
   * `pacman.exe -load -silent` for silent mode.
 
-### Simple mode and Load mode illustrations:
+### Simple mode and Load mode demonstration:
 ![Pacman Gif](https://user-images.githubusercontent.com/82831070/158054613-69f7166f-e0ab-4512-b422-cd28723e1a57.gif)
