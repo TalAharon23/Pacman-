@@ -1,4 +1,4 @@
-#     PACMAN GAME   
+#     PACMAN GAME      &nbsp;&nbsp;                    <img alt="C#" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
      by Tal Aharon
 
 This game was developed as part of a bachelor's degree in computer science at Tel Aviv-Jaffa College.
